@@ -1,0 +1,16 @@
+{
+  "name": "speed-typing-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://justenramsey.github.io/speedtypinggame",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
